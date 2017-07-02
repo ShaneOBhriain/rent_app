@@ -1,0 +1,2 @@
+rentApp = angular.module('rentApp',[
+])
